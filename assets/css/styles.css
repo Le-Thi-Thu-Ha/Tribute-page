@@ -36,7 +36,7 @@ main {
 
 #title {
   margin-top: 3rem;
-  font-size: 3.2rem;
+  font-size: 4rem;
   font-weight: 700;
 }
 
@@ -63,14 +63,13 @@ p {
 #heading {
   margin: 5rem 0;
   font-weight: 700;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 
 ul, blockquote {
   text-align: left;
   max-width: 55rem;
   margin: 0 auto;
-  font-size: 1.3rem;
   padding-left: 4rem;
 }
 
@@ -85,7 +84,7 @@ blockquote {
 
 h3 {
   margin: 2rem 0;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 700;
 }
 
