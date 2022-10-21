@@ -1,0 +1,49 @@
+@media only screen and (min-width: 48em) and (max-width: 63.9375em){
+
+    body {
+        font-size: 1.3rem;
+    }
+    
+    #title {
+       
+        font-size: 3rem;
+       
+    }
+
+    #image {
+        width: 100%;
+        padding: 0 5rem;
+    }
+    h3, #heading {
+        font-size: 2rem;
+    }
+
+
+
+
+}
+
+
+@media only screen and (max-width: 47.9375em) {
+
+    
+    body {
+        font-size: 1.0rem;
+    }
+    
+    #title {
+       
+        font-size: 2rem;
+       
+    }
+
+    #image {
+        width: 100%;
+        padding: 0 3rem;
+    }
+
+    h3,#heading {
+        font-size: 1rem;
+    }
+
+}
